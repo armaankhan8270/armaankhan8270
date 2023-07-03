@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @armaankhan8270
-- 👀 I’m interested web development 
+- 👀 I’m interested web development &Data Science(Machine Learning ,Data Analyst,Deep Learning)
 - 🌱 I’m currently learning nextjs
 -Front-end Technologies: I have hands-on experience in building responsive and dynamic web applications using HTML, CSS, and JavaScript frameworks like ReactJS, AngularJS, and VueJS. I also have experience with front-end tools such as Bootstrap, MaterializeCSS, and jQuery.
 
