@@ -45,28 +45,29 @@ I'm a passionate Full Stack Developer with a focus on the MERN stack. Currently 
 
 ## Skills
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin-top: 20px;">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="animation: rotate 5s linear infinite;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="animation: bounce 2s infinite;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="animation: pulse 1s infinite;">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" style="animation: rotate 5s linear infinite;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="animation: bounce 2s infinite;">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="animation: pulse 1s infinite;">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="animation: rotate 5s linear infinite;">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="animation: bounce 2s infinite;">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" style="animation: pulse 1s infinite;">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="animation: rotate 5s linear infinite;">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" style="animation: bounce 2s infinite;">
-  <img src="https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge&logo=apachespark&logoColor=white" style="animation: pulse 1s infinite;">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" style="animation: rotate 5s linear infinite;">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" style="animation: bounce 2s infinite;">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="animation: pulse 1s infinite;">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" style="animation: rotate 5s linear infinite;">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" style="animation: bounce 2s infinite;">
-  <img src="https://img.shields.io/badge/Machine%20Learning-007ACC?style=for-the-badge&logo=python&logoColor=white" style="animation: pulse 1s infinite;">
-  <img src="https://img.shields.io/badge/React%20Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="animation: rotate 5s linear infinite;">
-  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" style="animation: bounce 2s infinite;">
-  <img src="https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="animation: pulse 1s infinite;">
+
+<div class="skills-container" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin-top: 20px;">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" class="rotate" style="animation: rotate 5s linear infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" class="bounce" style="animation: bounce 2s infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" class="rotate" style="animation: rotate 5s linear infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" class="bounce" style="animation: bounce 2s infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" class="rotate" style="animation: rotate 5s linear infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" class="bounce" style="animation: bounce 2s infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" class="rotate" style="animation: rotate 5s linear infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" class="bounce" style="animation: bounce 2s infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge&logo=apachespark&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" class="rotate" style="animation: rotate 5s linear infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" class="bounce" style="animation: bounce 2s infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" class="rotate" style="animation: rotate 5s linear infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" class="bounce" style="animation: bounce 2s infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/Machine%20Learning-007ACC?style=for-the-badge&logo=python&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/React%20Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black" class="rotate" style="animation: rotate 5s linear infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" class="bounce" style="animation: bounce 2s infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=black" class="pulse" style="animation: pulse 1s infinite; margin: 10px;">
 </div>
 
 
