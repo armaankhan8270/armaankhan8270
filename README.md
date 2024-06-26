@@ -120,8 +120,8 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/armaankha
 
 📧 Email: karmankkhan@gmail.com  
 📱 Phone: (+91) 8433639534/7498149534  
-🌐 LinkedIn: [Armaan Khan Tufail](LinkedInProfileLink)  
-📁 GitHub: [ArmaanKT](GitHubProfileLink)  
+🌐 LinkedIn: [Armaan Khan Tufail](https://github.com/armaankhan8270)  
+📁 GitHub: [ArmaanKT](https://github.com/armaankhan8270)  
 
 ---
 
