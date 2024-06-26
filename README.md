@@ -21,15 +21,7 @@ Certainly! Here's a professional and catchy GitHub bio for Armaan Khan Tufail:
 
 Passionate about crafting seamless digital experiences through innovative software solutions. My journey in software development is a fusion of creativity, problem-solving, and relentless learning. With a solid foundation in frontend and backend technologies, I thrive in dynamic environments where I can push boundaries and contribute to impactful projects.
 
-**Key Highlights:**
 
-- 💻 **Full Stack Expertise**: Proficient in building end-to-end web applications with a focus on both frontend and backend development using cutting-edge technologies like React.js, Node.js, and MongoDB.
-
-- 🌐 **Project Portfolio**: From dynamic blog platforms to smart voting systems and robust movie recommendation engines, I've led and contributed to a diverse range of projects, each showcasing my dedication to excellence and innovation.
-
-- 📈 **Continuous Learner**: Committed to staying ahead of the curve, I actively seek out opportunities to explore emerging technologies and deepen my expertise. Recent certification in WordPress development underscores my commitment to continuous improvement.
-
-- 🤝 **Collaborative Spirit**: Experienced in version control with Git and adept at working in collaborative environments, ensuring smooth project workflows and effective team communication.
 
 **Hobbies & Interests:**
 
@@ -95,7 +87,15 @@ Created a Netflix and Amazon clone using React.js, Movies API, and Tailwind for 
 - Completed various projects using React.js, demonstrating proficiency in building dynamic and responsive user interfaces.
 - Proficient in version control with Git, effectively collaborating on projects and managing code repositories.
 - Passionate about sports and self-improvement literature.
+**Key Highlights:**
 
+- 💻 **Full Stack Expertise**: Proficient in building end-to-end web applications with a focus on both frontend and backend development using cutting-edge technologies like React.js, Node.js, and MongoDB.
+
+- 🌐 **Project Portfolio**: From dynamic blog platforms to smart voting systems and robust movie recommendation engines, I've led and contributed to a diverse range of projects, each showcasing my dedication to excellence and innovation.
+
+- 📈 **Continuous Learner**: Committed to staying ahead of the curve, I actively seek out opportunities to explore emerging technologies and deepen my expertise. Recent certification in WordPress development underscores my commitment to continuous improvement.
+
+- 🤝 **Collaborative Spirit**: Experienced in version control with Git and adept at working in collaborative environments, ensuring smooth project workflows and effective team communication.
 ## Get in Touch
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/armaankhan) or check out my projects on [GitHub](https://github.com/armaankhan8270).
