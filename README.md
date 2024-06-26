@@ -73,19 +73,19 @@ I'm a passionate Full Stack Developer with a focus on the MERN stack. Currently 
 
 ## Projects
 
-### 🗳️ [Smart Voting System](https://github.com/armaankhan8270/smart-voting-system)
+### 🗳️ [Smart Voting System](smartevoting.netlify.app)
 Revolutionize democracy with a secure authentication system, verifiable ballots, and real-time result tracking using the MERN stack. Features include OTP verification based on Aadhaar card number and face recognition using CNN.
 
-### 📚 [Dynamic Blog Website](https://github.com/armaankhan8270/blog-website)
+### 📚 [Dynamic Blog Website](https://armaanblog.netlify.app/)
 A dynamic blog web app with secure user authentication, real-time post creation and deletion, and efficient search functionality. Built with Node.js, Express.js, and MongoDB.
 
-### 📊 [Attendance Management System](https://github.com/armaankhan8270/attendance-management)
+### 📊 [Attendance Management System](https://attendance8270.netlify.app/)
 A web app for attendance tracking with features like authentication, record keeping, and reporting using the MERN stack.
 
-### 🛒 [E-Commerce Dashboard](https://github.com/armaankhan8270/ecommerce-dashboard)
+### 🛒 [E-Commerce Dashboard](https://github.com/armaankhan8270/dashBoard)
 Developed an e-commerce dashboard with a responsive React.js interface, secure user authentication, dynamic product management, real-time sales analytics, and interactive data visualization.
 
-### 🎥 [Netflix and Amazon Clone](https://github.com/armaankhan8270/netflix-amazon-clone)
+### 🎥 [Netflix and Amazon Clone](https://github.com/armaankhan8270/Netflix-Clone)
 Created a Netflix and Amazon clone using React.js, Movies API, and Tailwind for frontend design and functionality.
 
 ## Experience
