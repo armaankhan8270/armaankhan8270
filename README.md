@@ -1,204 +1,129 @@
-```markdown
-# [cite_start]👋 Hi, I'm Armaan Khan Tufail [cite: 1]
-### Data Engineer & Agentic AI Architect | [cite_start]Dual SnowPro & Claude Code Certified [cite: 2, 3]
 
-[cite_start]I am a Data Engineer with hands-on production experience building ETL/ELT pipelines, cloud data warehousing, and dimensional data modeling using Python, SQL, Snowflake, dbt, and AWS[cite: 6]. [cite_start]Certified in Claude Code with applied expertise in AI agents, sub-agents, custom skills, and MCP (Model Context Protocol), I build intelligent agentic pipelines that extend Claude's capabilities for complex data workflows[cite: 7]. [cite_start]As a Dual SnowPro Certified professional, I have a proven track record of delivering production-ready data pipelines and solutions[cite: 8].
+- 👋 Hi, I’m @armaankhan8270
+- 👀 I’m interested web development &Data Science(Machine Learning ,Data Analyst,Deep Learning)
+
+
+
+
+# Hi there, I'm Armaan Khan Tufail 👋
+
+![Animated Banner](https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif)
+
+## About Me
+
+I'm a passionate Full Stack Developer with a focus on the MERN stack. Currently pursuing a Bachelor's degree in Computer Science and Data Science, I'm constantly learning and exploring new technologies. My journey in software development is driven by a love for creating dynamic and responsive web applications that make a difference.
+
+- 📧 **Email:** karmankkhan@gmail.com
+- 📅 **Date of Birth:** 10th January 2003
+- 🚀 **Software Developer | Full Stack Engineer | Tech Enthusiast**
+
+🌐 **Location**: Navi Mumbai, India 🇮🇳
+
+🔧 **Skills**: JavaScript, Python, React.js, Node.js, MongoDB, Git, Flutter, Machine Learning
+
+📚 **Education**: Bachelor's in Computer Science and Data Science (CGPA: 7.5)
+
+## Skills
+
+
+<div class="skills-container" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin-top: 20px;">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" class="rotate" style="animation: rotate 5s linear infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" class="bounce" style="animation: bounce 2s infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" class="rotate" style="animation: rotate 5s linear infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" class="bounce" style="animation: bounce 2s infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" class="rotate" style="animation: rotate 5s linear infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" class="bounce" style="animation: bounce 2s infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" class="rotate" style="animation: rotate 5s linear infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" class="bounce" style="animation: bounce 2s infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge&logo=apachespark&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" class="rotate" style="animation: rotate 5s linear infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" class="bounce" style="animation: bounce 2s infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" class="rotate" style="animation: rotate 5s linear infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" class="bounce" style="animation: bounce 2s infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/Machine%20Learning-007ACC?style=for-the-badge&logo=python&logoColor=white" class="pulse" style="animation: pulse 1s infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/React%20Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black" class="rotate" style="animation: rotate 5s linear infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" class="bounce" style="animation: bounce 2s infinite; margin: 10px;">
+  <img src="https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=black" class="pulse" style="animation: pulse 1s infinite; margin: 10px;">
+</div>
+
+
+## Projects
+
+### 🗳️ [Smart Voting System](smartevoting.netlify.app)
+Revolutionize democracy with a secure authentication system, verifiable ballots, and real-time result tracking using the MERN stack. Features include OTP verification based on Aadhaar card number and face recognition using CNN.
+
+### 📚 [Dynamic Blog Website](https://armaanblog.netlify.app/)
+A dynamic blog web app with secure user authentication, real-time post creation and deletion, and efficient search functionality. Built with Node.js, Express.js, and MongoDB.
+
+### 📊 [Attendance Management System](https://attendance8270.netlify.app/)
+A web app for attendance tracking with features like authentication, record keeping, and reporting using the MERN stack.
+
+### 🛒 [E-Commerce Dashboard](https://github.com/armaankhan8270/dashBoard)
+Developed an e-commerce dashboard with a responsive React.js interface, secure user authentication, dynamic product management, real-time sales analytics, and interactive data visualization.
+
+### 🎥 [Netflix and Amazon Clone](https://github.com/armaankhan8270/Netflix-Clone)
+Created a Netflix and Amazon clone using React.js, Movies API, and Tailwind for frontend design and functionality.
+
+## Experience
+
+### React Internship - XZECT (June 2024 - Present)
+- Developed and maintained full-stack web applications using MongoDB, Express.js, React, and Node.js.
+- Designed RESTful APIs and optimized MongoDB databases for efficient data management.
+- Enhanced user interfaces with React, ensuring responsive and dynamic experiences.
+
+### Freelance React Developer (April 2023 - May 2023)
+- Created a Netflix and Amazon clone using React.js and Movies API.
+- Utilized Tailwind for frontend design and responsiveness.
+
+### Freelance MERN Developer (Nov 2023 - Dec 2023)
+- Built a Full Stack Project Carbon Emission using MongoDB, Express.js, Node.js, and React.js.
+
+## Achievements & Hobbies
+- Completed various projects using React.js, demonstrating proficiency in building dynamic and responsive user interfaces.
+- Proficient in version control with Git, effectively collaborating on projects and managing code repositories.
+- Passionate about sports and self-improvement literature.
+**Key Highlights:**
+
+- 💻 **Full Stack Expertise**: Proficient in building end-to-end web applications with a focus on both frontend and backend development using cutting-edge technologies like React.js, Node.js, and MongoDB.
+
+- 🌐 **Project Portfolio**: From dynamic blog platforms to smart voting systems and robust movie recommendation engines, I've led and contributed to a diverse range of projects, each showcasing my dedication to excellence and innovation.
+
+- 📈 **Continuous Learner**: Committed to staying ahead of the curve, I actively seek out opportunities to explore emerging technologies and deepen my expertise. Recent certification in WordPress development underscores my commitment to continuous improvement.
+
+- 🤝 **Collaborative Spirit**: Experienced in version control with Git and adept at working in collaborative environments, ensuring smooth project workflows and effective team communication.
+## Get in Touch
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/armaankhan) or check out my projects on [GitHub](https://github.com/armaankhan8270).
+
+<style>
+@keyframes rotate {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+  40% { transform: translateY(-30px); }
+  60% { transform: translateY(-15px); }
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
+</style>
+
+
+📧 Email: karmankkhan@gmail.com  
+📱 Phone: (+91) 8433639534/7498149534  
+🌐 LinkedIn: [Armaan Khan Tufail](https://github.com/armaankhan8270)  
+📁 GitHub: [ArmaanKT](https://github.com/armaankhan8270)  
 
 ---
 
-### 💡 The Value Proposition
-
-> [cite_start]**"I don't just move data from point A to point B. I build highly optimized, self-healing, and AI-augmented data platforms."** [cite: 6, 7]
-> 
-> [cite_start]By combining enterprise data warehousing (Snowflake, dbt, SQL, Python) with modern AI tools (Claude Code, MCP, and Snowflake Cortex AI), I build data systems designed to orchestrate, test, and document themselves[cite: 6, 7, 13, 29]. [cite_start]My focus is on cutting manual engineering overhead and embedding native intelligence directly within active analytical layers[cite: 28, 29].
-
----
-
-### 🏆 Professional Credentials
-
-* [cite_start]**SnowPro Core Certification** – Snowflake [cite: 17]
-* [cite_start]**SnowPro Specialty: Generative AI** – Snowflake [cite: 18]
-* [cite_start]**Claude Code Certification** – Anthropic [cite: 19]
-
----
-
-### 🛠️ The Agentic Data Stack Blueprint
-
-```text
-  [ Raw Data Sources ] ──> ( Ingestion Tier: AWS S3 & CDC ) ──> [ Snowflake Landing Tier ]
-                                                                             │
-  [ Claude Code Agents ] ── ( Schema Monitoring & Auto-dbt ) <───────────────┤
-          │                                                                  │
-          ▼                                                                  ▼
-  [ Automated dbt Core ] ──> ( Star Schema / Incremental ) ──> [ Production Warehouse ]
-                                                                             │
-  [ Stakeholder BI / Apps ] <─── ( Cortex AI Summaries ) <───────────────────┘
-
-```
-
----
-
-### 🚀 Technical Arsenal & Ecosystem
-
-* 
-**Languages:** Python, SQL, JavaScript 
-
-
-* 
-**Data Engineering:** ETL/ELT, dbt, Airflow, Data Modeling, OLAP/OLTP, CDC 
-
-
-* 
-**Cloud & Platforms:** Snowflake, AWS (S3, Redshift, Lambda), Databricks (Delta Lake), Apache Spark 
-
-
-* 
-**AI & Agentic Systems:** Claude Code, MCP (Model Context Protocol), AI Agents & Sub-Agents, Custom Skills, RAG, Generative AI, Snowflake Cortex AI 
-
-
-* 
-**DevOps & CI/CD:** Git, GitHub Actions, Docker 
-
-
-* 
-**Full-Stack / Product Layer:** React, Node.js, MongoDB, Flask, REST APIs 
-
-
-
----
-
-### 📂 Featured Systems Architectures
-
-#### 🤖 Claude Code Agentic Pipeline (dbt + Snowflake Automation) | 
-
-2026 
-
-* **The Problem:** Scaffolding dbt models, writing metadata schema files, and configuring repetitive tests manually slows down product velocity and introduces structural errors.
-* 
-**The Solution:** Built a multi-agent pipeline using Claude Code sub-agents and custom skills to auto-generate dbt models, tests, and YAML documentation from raw Snowflake schemas.
-
-
-* 
-**The Impact:** Reduced dbt model scaffolding time by over 70% and eliminated manual documentation cycles.
-
-
-
-#### ☁️ Multi-Source Cloud Data Pipeline | 
-
-Feb 2025 - Mar 2025 
-
-* **The Problem:** Ingesting multi-format data loads from miscellaneous sources safely into an analytical platform without data loss or compute overhead.
-* 
-**The Solution:** Built a Python orchestrator to pull data from REST APIs and flat files into AWS S3 with built-in partitioning and error-handling. Modeled the data into a Star Schema inside Snowflake using dbt incremental models, validation tests, and documentation.
-
-
-* 
-**The Impact:** Automated deployments using GitHub Actions CI/CD to guarantee clean, tested database releases every run.
-
-
-
-#### 📊 SaaS Metrics & Billing Pipeline | 
-
-Jan 2025 
-
-* **The Problem:** Processing large volumes of transactional updates efficiently while turning cold metrics into actionable insights for non-technical stakeholders.
-* 
-**The Solution:** Loaded 100,000+ Stripe records into Snowflake using optimized COPY INTO targets for fast batch ingestion. Constructed dbt incremental models for MRR, Churn, and LTV, and embedded Snowflake Cortex AI natively for text-based churn narrative generation.
-
-
-* 
-**The Impact:** Exposed real-time trends and text analysis through a lightweight Flask dashboard built for business stakeholders.
-
-
-
----
-
-### 💼 Professional Experience
-
-#### Data Engineer | 
-
-LTIMindtree (Navi Mumbai, India) 
-
-*Aug 2024 - April 2026* 
-
-* Built and maintained scalable ETL/ELT pipelines using Python, Snowflake, and dbt, delivering clean dimensional models for enterprise analytics and reporting.
-
-
-* Designed Star Schema data models enabling efficient OLAP queries and faster analyst turnaround time.
-
-
-* Set up cloud ingestion using AWS S3 and Snowflake Streams & Tasks for near-real-time data warehousing and change data capture (CDC).
-
-
-* Leveraged Snowflake Cortex AI functions—including CORTEX.COMPLETE, CORTEX.CLASSIFY_TEXT, ML-based anomaly detection, Cortex Search for semantic document retrieval, and Cortex Analytics—directly inside SQL and Snowpark pipelines.
-
-
-* Used Claude Code daily, building custom skills, sub-agents, and MCP integrations to automate pipeline debugging, dbt model generation, and data documentation.
-
-
-
-#### React Developer Intern | 
-
-XZECT (Remote) 
-
-*May 2024 - Aug 2024* 
-
-* Delivered two production MERN stack dashboards, improving platform user engagement by 30%.
-
-
-* Built clean REST API contracts and modular components, speeding up feature delivery by 20% and cutting integration bugs by 35%.
-
-
-
----
-
-### 🎓 Education
-
-* 
-**B.E. in Computer Science & Data Science** 
-
-
-* Mumbai University | Saraswati College of Engineering (2020 - 2024) 
-
-
-* 
-**CGPA:** 7.5 / 10.0 
-
-
-
-
-
----
-
-### ⚔️ Why I Am Your Technical Advantage
-
-1. 
-**AI-Native Data Engineering:** I don't just use AI to write code. I embed generative frameworks directly within active warehouse pipelines to classify data, run vector searches, and automate summaries.
-
-
-2. 
-**Snowflake Performance Expert:** Holding dual Snowflake certifications means I understand micro-partitioning, storage costs, and compute optimization, building data layouts that save enterprise budget.
-
-
-3. 
-**Full-Stack Awareness:** Because of my software development experience, I know exactly how downstream APIs and frontends query endpoints, allowing me to build schemas that map perfectly to real-world product usage.
-
-
-
----
-
-### 💬 Connect with Me
-
-* 📧 **Email:** karmankkhan@gmail.com 
-
-
-* 💼 **LinkedIn:** [linkedin.com/in/armaankhan8270](https://www.google.com/search?q=https://linkedin.com/in/armaankhan8270) 
-
-
-* 💻 **GitHub:** [github.com/armaankhan8270](https://github.com/armaankhan8270) 
-
-
-
-```
-
-```
+Feel free to tweak or expand upon this bio according to your preferences!
